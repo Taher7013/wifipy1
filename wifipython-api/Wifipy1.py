@@ -1,4 +1,3 @@
-
 # Import scapy
 import scapy.all as scapy
 # We need to create regular expressions to ensure that the input is correctly formatted.
@@ -17,8 +16,7 @@ print("\n****************************************************************")
 print("===============(By.DeV-O)=========≈==========================")
 print("\n================================================================")
 print("\n* Copyright of DeV-O, 2021                              *")
-print("\n* https://www.Taher7013.com                                  *")
-print("\n* https://www.youtube.com/Taher7013                          *")
+print("\n* SNAPCHAT:[༺༂a-rtro༂༻]SNAPCHAT                                 *")
 print("\n****************************************************************")
 
 # Regular Expression Pattern to recognise IPv4 addresses.
